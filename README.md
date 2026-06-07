@@ -31,9 +31,9 @@ An interactive **Power BI dashboard** analyzing placement trends of **5,000 Indi
 ---
 
 ## 📸 Dashboard Preview
-![Branch Overview](dashboard1.png)
-![City Tier Overview](dashboard2.png)
-![Gender Overview](dashboard3.png)
+![Branch Overview](dashboard1.PNG)
+![City Tier Overview](dashboard2.PNG)
+![Gender Overview](dashboard3.PNG)
 
 ---
 
