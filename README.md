@@ -40,3 +40,10 @@ An interactive **Power BI dashboard** analyzing placement trends of **5,000 Indi
 ## 📬 Connect With Me
 - 💼 [LinkedIn](https://www.linkedin.com/in/sayedani-shaikh-61a601286)
 - 🐙 [GitHub](https://github.com/Sayedani-29)
+
+---
+
+## 📄 License
+
+This project is licensed under the MIT License — see the [LICENSE](./LICENSE) file for details.
+
